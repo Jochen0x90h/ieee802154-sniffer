@@ -1,0 +1,17 @@
+build/
+__pycache__/
+presets.py
+CMakeUserPresets.json
+
+# VSCode
+.vscode/
+
+# CLion
+.idea/
+cmake-build*/
+
+# QtCreator
+CMakeLists.txt.user
+
+# pcap files
+*.pcap
